@@ -1,6 +1,6 @@
-## It is my first react app !
+# It is my first react app !
 
-# Simple calculator design in React..
+### Simple calculator design in React..
 
 
 
